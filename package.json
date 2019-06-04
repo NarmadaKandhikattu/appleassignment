@@ -1,0 +1,25 @@
+{
+  "name": "my_apple_assignment",
+  "version": "1.0.0",
+  "description": "App to print Birthday greetings using Node JS Client Server program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarmadaKandhikattu/appleassignment.git"
+  },
+  "author": "Narmada Kandhikattu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarmadaKandhikattu/appleassignment/issues"
+  },
+  "homepage": "https://github.com/NarmadaKandhikattu/appleassignment#readme",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  }
+}
